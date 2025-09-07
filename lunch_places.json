@@ -1,20 +1,20 @@
 [
   {
-    "name": "Pizza Corner",
-    "description": "Wood-fired pizzas and Italian dishes.",
-    "googleMapsLink": "https://maps.google.com/?q=Pizza+Corner",
-    "lastSuggested": "2025-09-07T16:24:33.433Z"
-  },
-  {
     "name": "Sushi Place",
     "description": "Fresh sushi and sashimi.",
     "googleMapsLink": "https://maps.google.com/?q=Sushi+Place",
-    "lastSuggested": "2025-09-07T16:14:58.041Z"
+    "lastSuggested": "2025-09-07T16:36:58.550Z"
   },
   {
     "name": "Vegan Delight",
     "description": "Plant-based lunch options.",
     "googleMapsLink": "https://maps.google.com/?q=Vegan+Delight",
     "lastSuggested": "2025-09-07T16:23:35.216Z"
+  },
+  {
+    "name": "Pizza Corner",
+    "description": "Wood-fired pizzas and Italian dishes.",
+    "googleMapsLink": "https://maps.google.com/?q=Pizza+Corner",
+    "lastSuggested": "2025-09-07T16:24:33.433Z"
   }
 ]
