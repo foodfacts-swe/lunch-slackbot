@@ -1,20 +1,92 @@
 [
   {
-    "name": "Sushi Place",
-    "description": "Fresh sushi and sashimi.",
-    "googleMapsLink": "https://maps.google.com/?q=Sushi+Place",
-    "lastSuggested": "2025-09-07T16:36:58.550Z"
+    "name": "Eatnam Östermalm",
+    "description": "Vietnamese food",
+    "googleMapsLink": "https://maps.app.goo.gl/7GXejSP2HFg5naFcA",
+    "lastSuggested": null
   },
   {
-    "name": "Vegan Delight",
-    "description": "Plant-based lunch options.",
-    "googleMapsLink": "https://maps.google.com/?q=Vegan+Delight",
-    "lastSuggested": "2025-09-07T16:23:35.216Z"
+    "name": "Stockholm Macka SUNdeVICH",
+    "description": "Negar said it's good. She needs to update this description.",
+    "googleMapsLink": "https://maps.app.goo.gl/EqDjfY5CSP7Tcs839",
+    "lastSuggested": null
   },
   {
-    "name": "Pizza Corner",
-    "description": "Wood-fired pizzas and Italian dishes.",
-    "googleMapsLink": "https://maps.google.com/?q=Pizza+Corner",
-    "lastSuggested": "2025-09-07T16:24:33.433Z"
+    "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
+    "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
+    "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
+    "lastSuggested": null
+  },
+  {
+    "name": "Monster Chicken",
+    "description": "Korean fried chicken",
+    "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
+    "lastSuggested": null
+  },
+  {
+    "name": "Brunkebergs Bageri och Bistro",
+    "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
+    "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
+    "lastSuggested": null
+  },
+  {
+    "name": "The Iranian restaurant on Drottninggatan.",
+    "description": "Negar, please update this entry!",
+    "googleMapsLink": "url needs to be added as well!",
+    "lastSuggested": null
+  },
+  {
+    "name": "Kale & Crave",
+    "description": "Hipster Healthfood",
+    "googleMapsLink": "https://maps.app.goo.gl/teKTko18mhJPFhXH7",
+    "lastSuggested": null
+  },
+  {
+    "name": "Ramen Shop",
+    "description": "Ramen!",
+    "googleMapsLink": "https://maps.app.goo.gl/45pZVoTrCGuFe4Bk8",
+    "lastSuggested": null
+  },
+  {
+    "name": "Meat On A Stick - M.O.A.S",
+    "description": "High quality kebab but they are super slow. Go there early!",
+    "googleMapsLink": "https://maps.app.goo.gl/fwfTeqo85NeioTAPA",
+    "lastSuggested": null
+  },
+  {
+    "name": "Agdas på hörnet",
+    "description": "Nice food. always good.",
+    "googleMapsLink": "https://maps.app.goo.gl/QiSpStgiv3YubWmb9",
+    "lastSuggested": null
+  },
+  {
+    "name": "Let's Malatang - hotpot in bowl",
+    "description": "Pretty authentic chinese hot pot - so i've been told...",
+    "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
+    "lastSuggested": null
+  },
+  {
+    "name": "Marrakech Sveavägen",
+    "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
+    "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
+    "lastSuggested": null
+  },
+  {
+    "name": "Babel Deli",
+    "description": "Lebanese Meze",
+    "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
+    "lastSuggested": null
+  },
+  {
+    "name": "Ta'ameya Falafel",
+    "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
+    "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
+    "lastSuggested": null
+  },
+  {
+    "name": "Meno Male Vasastan",
+    "description": "Neapolitanian Pizza with a nice sallad buffet",
+    "googleMapsLink": "https://maps.app.goo.gl/zHheQVLZXeUDwVQ47",
+    "lastSuggested": null
   }
 ]
