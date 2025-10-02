@@ -3,25 +3,13 @@
     "name": "Eatnam Östermalm",
     "description": "Vietnamese food",
     "googleMapsLink": "https://maps.app.goo.gl/7GXejSP2HFg5naFcA",
-    "lastSuggested": "2025-09-10T10:24:31.266Z"
+    "lastSuggested": "2025-10-01T10:24:31.266Z"
   },
   {
     "name": "Stockholm Macka SUNdeVICH",
     "description": "Negar said it's good. She needs to update this description.",
     "googleMapsLink": "https://maps.app.goo.gl/EqDjfY5CSP7Tcs839",
     "lastSuggested": "2025-09-17T09:29:33.885Z"
-  },
-  {
-    "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
-    "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
-    "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
-    "lastSuggested": "2025-09-24T09:21:06.930Z"
-  },
-  {
-    "name": "Monster Chicken",
-    "description": "Korean fried chicken",
-    "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
-    "lastSuggested": "2025-10-01T09:21:12.548Z"
   },
   {
     "name": "Brunkebergs Bageri och Bistro",
@@ -78,6 +66,12 @@
     "lastSuggested": null
   },
   {
+    "name": "SIN Ramen",
+    "description": "Great Ramen! Not super large, so you need to be there early.",
+    "googleMapsLink": "https://maps.app.goo.gl/q2qnxpns3vf84NL9A",
+    "lastSuggested": null
+  },
+  {
     "name": "Ta'ameya Falafel",
     "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
     "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
@@ -93,6 +87,18 @@
     "name": "CHAO NA",
     "description": "Authentic Thai food, Deniz loves this place!",
     "googleMapsLink": "https://maps.app.goo.gl/X6b8i7WtzjY7tBrK7",
+    "lastSuggested": null
+  },
+  {
+    "name": "Monster Chicken",
+    "description": "Korean fried chicken",
+    "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
+    "lastSuggested": null
+  },
+  {
+    "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
+    "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
+    "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
     "lastSuggested": null
   }
 ]
