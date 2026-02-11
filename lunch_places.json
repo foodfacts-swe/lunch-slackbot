@@ -1,15 +1,9 @@
 [
   {
-    "name": "Brunkebergs Bageri och Bistro",
-    "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
-    "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
-    "lastSuggested": "2026-02-04T09:27:34.445Z"
-  },
-  {
     "name": "Malakeh",
     "description": "The Iranian restaurant on Drottninggatan. Rice and stews/kebabs!",
     "googleMapsLink": "https://maps.app.goo.gl/CXX3fDmWMaAQvCQ2A",
-    "lastSuggested": "2025-10-15T09:21:08.645Z"
+    "lastSuggested": "2026-02-11T09:32:29.458Z"
   },
   {
     "name": "Kale & Crave",
@@ -100,5 +94,11 @@
     "description": "Vietnamese food",
     "googleMapsLink": "https://maps.app.goo.gl/7GXejSP2HFg5naFcA",
     "lastSuggested": "2026-01-28T09:23:29.990Z"
+  },
+  {
+    "name": "Brunkebergs Bageri och Bistro",
+    "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
+    "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
+    "lastSuggested": "2026-02-04T09:27:34.445Z"
   }
 ]
