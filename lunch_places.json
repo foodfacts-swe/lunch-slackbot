@@ -1,15 +1,9 @@
 [
   {
-    "name": "Kale & Crave",
-    "description": "Hipster Healthfood",
-    "googleMapsLink": "https://maps.app.goo.gl/teKTko18mhJPFhXH7",
-    "lastSuggested": "2026-02-18T09:29:45.544Z"
-  },
-  {
     "name": "Ramen Shop",
     "description": "Ramen!",
     "googleMapsLink": "https://maps.app.goo.gl/45pZVoTrCGuFe4Bk8",
-    "lastSuggested": "2025-10-29T09:21:04.695Z"
+    "lastSuggested": "2026-02-25T09:32:31.704Z"
   },
   {
     "name": "Meat On A Stick - M.O.A.S",
@@ -100,5 +94,11 @@
     "description": "The Iranian restaurant on Drottninggatan. Rice and stews/kebabs!",
     "googleMapsLink": "https://maps.app.goo.gl/CXX3fDmWMaAQvCQ2A",
     "lastSuggested": "2026-02-11T09:32:29.458Z"
+  },
+  {
+    "name": "Kale & Crave",
+    "description": "Hipster Healthfood",
+    "googleMapsLink": "https://maps.app.goo.gl/teKTko18mhJPFhXH7",
+    "lastSuggested": "2026-02-18T09:29:45.544Z"
   }
 ]
