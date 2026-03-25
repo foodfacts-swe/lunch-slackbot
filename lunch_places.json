@@ -1,15 +1,9 @@
 [
   {
-    "name": "Let's Malatang - hotpot in bowl",
-    "description": "Pretty authentic chinese hot pot - so i've been told...",
-    "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
-    "lastSuggested": "2026-03-18T09:32:36.685Z"
-  },
-  {
     "name": "Marrakech Sveavägen",
     "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
     "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
-    "lastSuggested": "2025-11-26T09:21:34.122Z"
+    "lastSuggested": "2026-03-25T09:32:21.451Z"
   },
   {
     "name": "Babel Deli",
@@ -100,5 +94,11 @@
     "description": "Nice food. always good.",
     "googleMapsLink": "https://maps.app.goo.gl/QiSpStgiv3YubWmb9",
     "lastSuggested": "2026-03-11T09:27:34.388Z"
+  },
+  {
+    "name": "Let's Malatang - hotpot in bowl",
+    "description": "Pretty authentic chinese hot pot - so i've been told...",
+    "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
+    "lastSuggested": "2026-03-18T09:32:36.685Z"
   }
 ]
