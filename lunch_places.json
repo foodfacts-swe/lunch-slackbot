@@ -1,21 +1,9 @@
 [
   {
-    "name": "Bungo Stockholm (in Zita Cinema)",
-    "description": "They advertise a hot lunch for 99 kr.",
-    "googleMapsLink": "https://stockholm.bongobar.se/lunch",
-    "lastSuggested": "2026-04-01T09:34:51.857Z"
-  },
-  {
-    "name": "Marrakech Sveavägen",
-    "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
-    "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
-    "lastSuggested": "2026-03-25T09:32:21.451Z"
-  },
-  {
     "name": "Babel Deli",
     "description": "Lebanese Meze",
     "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
-    "lastSuggested": "2025-12-03T09:21:36.545Z"
+    "lastSuggested": "2026-04-01T09:39:31.590Z"
   },
   {
     "name": "SIN Ramen",
@@ -106,5 +94,17 @@
     "description": "Pretty authentic chinese hot pot - so i've been told...",
     "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
     "lastSuggested": "2026-03-18T09:32:36.685Z"
+  },
+  {
+    "name": "Marrakech Sveavägen",
+    "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
+    "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
+    "lastSuggested": "2026-03-25T09:32:21.451Z"
+  },
+  {
+    "name": "Bungo Stockholm (in Zita Cinema)",
+    "description": "They advertise a hot lunch for 99 kr.",
+    "googleMapsLink": "https://stockholm.bongobar.se/lunch",
+    "lastSuggested": "2026-04-01T09:34:51.857Z"
   }
 ]
