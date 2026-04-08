@@ -1,15 +1,9 @@
 [
   {
-    "name": "Babel Deli",
-    "description": "Lebanese Meze",
-    "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
-    "lastSuggested": "2026-04-01T09:39:31.590Z"
-  },
-  {
     "name": "SIN Ramen",
     "description": "Great Ramen! Not super large, so you need to be there early.",
     "googleMapsLink": "https://maps.app.goo.gl/q2qnxpns3vf84NL9A",
-    "lastSuggested": "2025-12-10T09:22:03.672Z"
+    "lastSuggested": "2026-04-08T09:39:15.141Z"
   },
   {
     "name": "Ta'ameya Falafel",
@@ -106,5 +100,11 @@
     "description": "They advertise a hot lunch for 99 kr.",
     "googleMapsLink": "https://stockholm.bongobar.se/lunch",
     "lastSuggested": "2026-04-01T09:34:51.857Z"
+  },
+  {
+    "name": "Babel Deli",
+    "description": "Lebanese Meze",
+    "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
+    "lastSuggested": "2026-04-01T09:39:31.590Z"
   }
 ]
