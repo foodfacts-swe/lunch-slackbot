@@ -1,15 +1,9 @@
 [
   {
-    "name": "SIN Ramen",
-    "description": "Great Ramen! Not super large, so you need to be there early.",
-    "googleMapsLink": "https://maps.app.goo.gl/q2qnxpns3vf84NL9A",
-    "lastSuggested": "2026-04-08T09:39:15.141Z"
-  },
-  {
     "name": "Ta'ameya Falafel",
     "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
     "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
-    "lastSuggested": "2025-12-17T09:22:27.774Z"
+    "lastSuggested": "2026-04-15T09:46:16.505Z"
   },
   {
     "name": "Meno Male Vasastan",
@@ -106,5 +100,11 @@
     "description": "Lebanese Meze",
     "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
     "lastSuggested": "2026-04-01T09:39:31.590Z"
+  },
+  {
+    "name": "SIN Ramen",
+    "description": "Great Ramen! Not super large, so you need to be there early.",
+    "googleMapsLink": "https://maps.app.goo.gl/q2qnxpns3vf84NL9A",
+    "lastSuggested": "2026-04-08T09:39:15.141Z"
   }
 ]
