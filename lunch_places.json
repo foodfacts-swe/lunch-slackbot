@@ -1,15 +1,9 @@
 [
   {
-    "name": "Ta'ameya Falafel",
-    "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
-    "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
-    "lastSuggested": "2026-04-15T09:46:16.505Z"
-  },
-  {
     "name": "Meno Male Vasastan",
     "description": "Neapolitanian Pizza with a nice sallad buffet",
     "googleMapsLink": "https://maps.app.goo.gl/zHheQVLZXeUDwVQ47",
-    "lastSuggested": "2025-12-24T09:21:44.633Z"
+    "lastSuggested": "2026-04-22T09:46:46.364Z"
   },
   {
     "name": "CHAO NA",
@@ -106,5 +100,11 @@
     "description": "Great Ramen! Not super large, so you need to be there early.",
     "googleMapsLink": "https://maps.app.goo.gl/q2qnxpns3vf84NL9A",
     "lastSuggested": "2026-04-08T09:39:15.141Z"
+  },
+  {
+    "name": "Ta'ameya Falafel",
+    "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
+    "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
+    "lastSuggested": "2026-04-15T09:46:16.505Z"
   }
 ]
