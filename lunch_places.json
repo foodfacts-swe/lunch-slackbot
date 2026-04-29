@@ -1,15 +1,9 @@
 [
   {
-    "name": "Meno Male Vasastan",
-    "description": "Neapolitanian Pizza with a nice sallad buffet",
-    "googleMapsLink": "https://maps.app.goo.gl/zHheQVLZXeUDwVQ47",
-    "lastSuggested": "2026-04-22T09:46:46.364Z"
-  },
-  {
     "name": "CHAO NA",
     "description": "Authentic Thai food, Deniz loves this place!",
     "googleMapsLink": "https://maps.app.goo.gl/X6b8i7WtzjY7tBrK7",
-    "lastSuggested": "2025-12-31T09:21:48.916Z"
+    "lastSuggested": "2026-04-29T09:53:38.391Z"
   },
   {
     "name": "Monster Chicken",
@@ -106,5 +100,11 @@
     "description": "Awesome Falafel! But it takes a long time to prepare. Order early!",
     "googleMapsLink": "https://maps.app.goo.gl/QM9KiokYiZFgzibE8",
     "lastSuggested": "2026-04-15T09:46:16.505Z"
+  },
+  {
+    "name": "Meno Male Vasastan",
+    "description": "Neapolitanian Pizza with a nice sallad buffet",
+    "googleMapsLink": "https://maps.app.goo.gl/zHheQVLZXeUDwVQ47",
+    "lastSuggested": "2026-04-22T09:46:46.364Z"
   }
 ]
