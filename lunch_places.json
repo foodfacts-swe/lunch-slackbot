@@ -1,15 +1,9 @@
 [
   {
-    "name": "Monster Chicken",
-    "description": "Korean fried chicken",
-    "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
-    "lastSuggested": "2026-05-06T10:00:38.359Z"
-  },
-  {
     "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
     "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
     "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
-    "lastSuggested": "2026-01-14T09:22:42.059Z"
+    "lastSuggested": "2026-05-13T10:04:50.404Z"
   },
   {
     "name": "Stockholm Macka SUNdeVICH",
@@ -106,5 +100,11 @@
     "description": "Authentic Thai food, Deniz loves this place!",
     "googleMapsLink": "https://maps.app.goo.gl/X6b8i7WtzjY7tBrK7",
     "lastSuggested": "2026-04-29T09:53:38.391Z"
+  },
+  {
+    "name": "Monster Chicken",
+    "description": "Korean fried chicken",
+    "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
+    "lastSuggested": "2026-05-06T10:00:38.359Z"
   }
 ]
