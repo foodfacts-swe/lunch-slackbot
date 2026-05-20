@@ -1,15 +1,9 @@
 [
   {
-    "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
-    "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
-    "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
-    "lastSuggested": "2026-05-13T10:04:50.404Z"
-  },
-  {
     "name": "Stockholm Macka SUNdeVICH",
     "description": "Negar said it's good. She needs to update this description.",
     "googleMapsLink": "https://maps.app.goo.gl/EqDjfY5CSP7Tcs839",
-    "lastSuggested": "2026-01-21T09:23:19.111Z"
+    "lastSuggested": "2026-05-20T10:21:52.370Z"
   },
   {
     "name": "Eatnam Östermalm",
@@ -106,5 +100,11 @@
     "description": "Korean fried chicken",
     "googleMapsLink": "https://maps.app.goo.gl/eFFyfRCCZD4uyQoD9",
     "lastSuggested": "2026-05-06T10:00:38.359Z"
+  },
+  {
+    "name": "Restaurang Cirkeln och Cirkeln Bakfickan",
+    "description": "2 Restaurants in ABF huset. Usually pretty nice food!",
+    "googleMapsLink": "https://maps.app.goo.gl/yfKCmqhDWi8KVZpo8",
+    "lastSuggested": "2026-05-13T10:04:50.404Z"
   }
 ]
