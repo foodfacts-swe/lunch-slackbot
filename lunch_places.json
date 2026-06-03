@@ -1,15 +1,9 @@
 [
   {
-    "name": "Eatnam Östermalm",
-    "description": "Vietnamese food",
-    "googleMapsLink": "https://maps.app.goo.gl/7GXejSP2HFg5naFcA",
-    "lastSuggested": "2026-05-27T10:36:14.928Z"
-  },
-  {
     "name": "Brunkebergs Bageri och Bistro",
     "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
     "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
-    "lastSuggested": "2026-02-04T09:27:34.445Z"
+    "lastSuggested": "2026-06-03T10:51:38.952Z"
   },
   {
     "name": "Malakeh",
@@ -106,5 +100,11 @@
     "description": "Negar said it's good. She needs to update this description.",
     "googleMapsLink": "https://maps.app.goo.gl/EqDjfY5CSP7Tcs839",
     "lastSuggested": "2026-05-20T10:21:52.370Z"
+  },
+  {
+    "name": "Eatnam Östermalm",
+    "description": "Vietnamese food",
+    "googleMapsLink": "https://maps.app.goo.gl/7GXejSP2HFg5naFcA",
+    "lastSuggested": "2026-05-27T10:36:14.928Z"
   }
 ]
