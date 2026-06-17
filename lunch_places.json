@@ -1,15 +1,9 @@
 [
   {
-    "name": "Malakeh",
-    "description": "The Iranian restaurant on Drottninggatan. Rice and stews/kebabs!",
-    "googleMapsLink": "https://maps.app.goo.gl/CXX3fDmWMaAQvCQ2A",
-    "lastSuggested": "2026-06-10T10:37:31.312Z"
-  },
-  {
     "name": "Kale & Crave",
     "description": "Hipster Healthfood",
     "googleMapsLink": "https://maps.app.goo.gl/teKTko18mhJPFhXH7",
-    "lastSuggested": "2026-02-18T09:29:45.544Z"
+    "lastSuggested": "2026-06-17T10:51:15.933Z"
   },
   {
     "name": "Ramen Shop",
@@ -106,5 +100,11 @@
     "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
     "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
     "lastSuggested": "2026-06-03T10:51:38.952Z"
+  },
+  {
+    "name": "Malakeh",
+    "description": "The Iranian restaurant on Drottninggatan. Rice and stews/kebabs!",
+    "googleMapsLink": "https://maps.app.goo.gl/CXX3fDmWMaAQvCQ2A",
+    "lastSuggested": "2026-06-10T10:37:31.312Z"
   }
 ]
