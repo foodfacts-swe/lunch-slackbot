@@ -2,7 +2,7 @@ name: Run Bot
 
 on:
   schedule:
-    - cron: '15 09 * * 3' # since GitHub only supports UTC, I'm setting this to 10:15. 
+    - cron: '15 8 * * 3' # since GitHub only supports UTC, I'm setting this to 08:15. 
   workflow_dispatch:
 
 jobs:
