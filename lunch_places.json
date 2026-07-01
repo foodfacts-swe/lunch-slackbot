@@ -1,15 +1,9 @@
 [
   {
-    "name": "Ramen Shop",
-    "description": "Ramen!",
-    "googleMapsLink": "https://maps.app.goo.gl/45pZVoTrCGuFe4Bk8",
-    "lastSuggested": "2026-06-24T10:21:10.140Z"
-  },
-  {
     "name": "Meat On A Stick - M.O.A.S",
     "description": "High quality kebab but they are super slow. Go there early!",
     "googleMapsLink": "https://maps.app.goo.gl/fwfTeqo85NeioTAPA",
-    "lastSuggested": "2026-03-04T09:25:32.869Z"
+    "lastSuggested": "2026-07-01T09:28:08.888Z"
   },
   {
     "name": "Agdas på hörnet",
@@ -106,5 +100,11 @@
     "description": "Hipster Healthfood",
     "googleMapsLink": "https://maps.app.goo.gl/teKTko18mhJPFhXH7",
     "lastSuggested": "2026-06-17T10:51:15.933Z"
+  },
+  {
+    "name": "Ramen Shop",
+    "description": "Ramen!",
+    "googleMapsLink": "https://maps.app.goo.gl/45pZVoTrCGuFe4Bk8",
+    "lastSuggested": "2026-06-24T10:21:10.140Z"
   }
 ]
