@@ -1,15 +1,9 @@
 [
   {
-    "name": "Agdas på hörnet",
-    "description": "Nice food. always good.",
-    "googleMapsLink": "https://maps.app.goo.gl/QiSpStgiv3YubWmb9",
-    "lastSuggested": "2026-07-08T09:08:57.496Z"
-  },
-  {
     "name": "Let's Malatang - hotpot in bowl",
     "description": "Pretty authentic chinese hot pot - so i've been told...",
     "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
-    "lastSuggested": "2026-03-18T09:32:36.685Z"
+    "lastSuggested": "2026-07-15T09:01:27.999Z"
   },
   {
     "name": "Marrakech Sveavägen",
@@ -106,5 +100,11 @@
     "description": "High quality kebab but they are super slow. Go there early!",
     "googleMapsLink": "https://maps.app.goo.gl/fwfTeqo85NeioTAPA",
     "lastSuggested": "2026-07-01T09:28:08.888Z"
+  },
+  {
+    "name": "Agdas på hörnet",
+    "description": "Nice food. always good.",
+    "googleMapsLink": "https://maps.app.goo.gl/QiSpStgiv3YubWmb9",
+    "lastSuggested": "2026-07-08T09:08:57.496Z"
   }
 ]
