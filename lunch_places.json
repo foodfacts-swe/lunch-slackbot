@@ -1,15 +1,9 @@
 [
   {
-    "name": "Marrakech Sveavägen",
-    "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
-    "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
-    "lastSuggested": "2026-07-22T09:10:08.385Z"
-  },
-  {
     "name": "Bungo Stockholm (in Zita Cinema)",
     "description": "They advertise a hot lunch for 99 kr.",
     "googleMapsLink": "https://stockholm.bongobar.se/lunch",
-    "lastSuggested": "2026-04-01T09:34:51.857Z"
+    "lastSuggested": "2026-07-29T09:15:28.617Z"
   },
   {
     "name": "Babel Deli",
@@ -106,5 +100,11 @@
     "description": "Pretty authentic chinese hot pot - so i've been told...",
     "googleMapsLink": "https://maps.app.goo.gl/UKkkUtBDv9D2TQPU7",
     "lastSuggested": "2026-07-15T09:01:27.999Z"
+  },
+  {
+    "name": "Marrakech Sveavägen",
+    "description": "A meze-style buffet restaurant. Matthias was there once and it's decent.",
+    "googleMapsLink": "https://maps.app.goo.gl/g9efYXM7qHVboctVA",
+    "lastSuggested": "2026-07-22T09:10:08.385Z"
   }
 ]
