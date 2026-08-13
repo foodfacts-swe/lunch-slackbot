@@ -18,7 +18,7 @@ async function main() {
     let placeToSuggest = places.find(p => !p.lastSuggested);
     if (!placeToSuggest) {
         // take the place that was suggestested the longest time ago
-        placeToSuggest = places.sort((a, b) => new Date(a.lastSuggested) - new Date(b.lastSuggested))[0];
+        placeToSuggest = places.toSorted((a, b) => new Date(a.lastSuggested) - new Date(b.lastSuggested))[0];
     }
 
     // 3. Post to URL
