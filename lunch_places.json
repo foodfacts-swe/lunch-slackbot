@@ -48,12 +48,6 @@
     "lastSuggested": "2026-05-27T10:36:14.928Z"
   },
   {
-    "name": "Brunkebergs Bageri och Bistro",
-    "description": "Matthias heard it's nice for lunch but was never there for lunch himself.",
-    "googleMapsLink": "https://maps.app.goo.gl/UdUuJ3k2XBzLqPmT6",
-    "lastSuggested": "2026-06-03T10:51:38.952Z"
-  },
-  {
     "name": "Malakeh",
     "description": "The Iranian restaurant on Drottninggatan. Rice and stews/kebabs!",
     "googleMapsLink": "https://maps.app.goo.gl/CXX3fDmWMaAQvCQ2A",
@@ -106,5 +100,10 @@
     "description": "Lebanese Meze",
     "googleMapsLink": "https://maps.app.goo.gl/JgvTueEfFMf6ftf39",
     "lastSuggested": "2026-08-05T09:13:50.719Z"
+  },
+  {
+    "name": "Xulo",
+    "description": "Xulo - Mexikansk Restaurang & Bar",
+    "googleMapsLink": "https://maps.app.goo.gl/7vGUHFg9F9KMTseR7"
   }
 ]
