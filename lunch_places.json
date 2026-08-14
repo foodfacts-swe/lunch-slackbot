@@ -105,5 +105,15 @@
     "name": "Xulo",
     "description": "Xulo - Mexikansk Restaurang & Bar",
     "googleMapsLink": "https://maps.app.goo.gl/7vGUHFg9F9KMTseR7"
+  },
+  {
+    "name": "Posto",
+    "description": "Italian restaurant, fresh pasta",
+    "googleMapsLink": "https://maps.app.goo.gl/WDrb5oPdNjwLeEJy7"
+  },
+  {
+    "name": "Dubbla Deli",
+    "description": "Sandwich shop in Hötorgshallen",
+    "googleMapsLink": "https://maps.app.goo.gl/D86YPR2Adbio3cp47"
   }
 ]
